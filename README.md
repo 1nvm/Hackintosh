@@ -38,6 +38,4 @@ Hackintosh
 └── README.md
 ```
 
-+ 用于 ``macOS Big Sur Beta`` 引导目前睡眠唤醒存在问题，正在尝试修复······
 + ``Other`` 文件夹仅作备份参考，不建议使用
-+ 开启 ``JumpstartHotPlug`` 用于 ``macOS Big Sur Beta`` 进入 ``Recovery Mode``
